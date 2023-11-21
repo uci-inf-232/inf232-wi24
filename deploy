@@ -1,0 +1,2 @@
+ng build --configuration production
+ngh --dir dist/inf232-sp23 --cname=inf232-sp23.depstein.net
