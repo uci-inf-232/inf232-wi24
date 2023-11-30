@@ -1,0 +1,252 @@
+{
+	"class_default": {
+		"time": "09:30",
+		"duration": "80"
+	},
+	"events" : [
+		{
+			"date": "2024-01-08",
+			"type": "class",
+			"title": "History & Course Overview",
+			"readings": [
+				{
+					"authors": ["Susanne Bødker"],
+					"title": "When Second Wave HCI Meets Third Wave Challenges",
+					"venue": "NordiCHI",
+					"date": "2006",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1182475.1182476",
+					"optional": true
+				},
+				{
+					"authors": ["Susanne Bødker"],
+					"title": "Third-wave HCI, 10 dates Later--Participation and Sharing",
+					"venue": "Interactions",
+					"volume": 22,
+					"issue": 5,
+					"date": "2015",
+					"link": "https://dl.acm.org/doi/10.1145/2804405",
+					"optional": true
+				},
+				{
+					"authors": ["Steve Harrison", "Deborah Tatar", "Phoebe Sengers"],
+					"title": "The Three Paradigms of HCI",
+					"venue": "alt.CHI",
+					"date": "2007",
+					"link": "https://people.cs.vt.edu/srh/Downloads/HCIJournalTheThreeParadigmsofHCI.pdf",
+					"optional": true
+				}
+			],
+			"slides": "assets/slides/04_04_23-introduction.pdf"
+		},
+		{
+			"date": "2024-01-10",
+			"type": "class",
+			"leaders": ["Daniel"],
+			"title": "Research Contribution Types",
+			"readings": [
+				{
+					"authors": ["Jacob O. Wobbrock", "Julie A. Kientz"],
+					"title": "Research Contributions in Human-Computer Interaction",
+					"venue": "Interactions",
+					"volume": 23,
+					"issue": 3,
+					"date": "2016",
+					"link": "https://dl.acm.org/doi/10.1145/2907069"
+				},
+				{
+					"authors": ["CHI 2024"],
+					"title": "Contributions to CHI",
+					"link":"https://chi2024.acm.org/submission-guides/contributions-to-chi/",
+					"date": "2023",
+					"optional":true
+				}
+			],
+			"slides": "assets/slides/04_06_23-research_contributions.pdf"
+		},
+		{
+			"date": "2024-01-12",
+			"type": "due",
+			"title": "Discussion Leading Preferences",
+			"link": "https://forms.gle/jZh25TSAzu3dENTt6"
+		},
+		{
+			"date": "2024-01-15",
+			"type": "holiday",	
+			"title": "No Class, Martin Luther King Day"
+		},
+		{
+			"date": "2024-01-17",
+			"type": "class",
+			"title": "Anatomy of an HCI Paper",
+			"leaders": ["Daniel"],
+			"readings": [
+				{
+					"authors": ["Jacob O. Wobbrock"],
+					"title": "Catchy Titles are Good: But Avoid Being Cute",
+					"venue": "White Paper",
+					"date": "2015",
+					"link": "https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf"
+				},
+				{
+					"authors": ["Berkeley Student Learning Center"],
+					"title": "Reverse Outlining Worksheet",
+					"date": "2008",
+					"link": "https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/reverse-outlining-worksheet"
+				},
+				{
+					"authors": ["Berkeley Student Learning Center"],
+					"title": "So You've Finished a First Draft: Reverse Outlining",
+					"date": "2008",
+					"link": "https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/so-youve-finished-first-draft-reverse-outlining"
+				},
+				{
+					"authors": ["Berkeley Student Learning Center"],
+					"title": "Your Paper is a Toolbox: The Art of the Backwards Outline",
+					"date": "2008",
+					"link": "https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/your-paper-toolbox-art-backwards-outline",
+					"optional": true
+				}
+			]
+		},
+		{
+			"date": "2024-01-22",
+			"type": "class",
+			"title": "Overview of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-01-24",
+			"type": "class",
+			"title": "Discussion of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-01-29",
+			"type": "class",
+			"title": "Overview of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-01-31",
+			"type": "class",
+			"title": "Discussion of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-02-02",
+			"type": "assignments",
+			"title": "Reverse Outline",
+			"anchor": "reverseoutline"
+		},
+		{
+			"date": "2024-02-02",
+			"type": "assignments",
+			"title": "Proposal 1 Groups",
+			"anchor": "proposal1groups"
+		},
+		{
+			"date": "2024-02-05",
+			"type": "class",
+			"title": "Overview of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-02-07",
+			"type": "class",
+			"title": "Discussion of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-02-09",
+			"type": "assignments",
+			"title": "Proposal 1 Draft",
+			"anchor": "proposal1draft"
+		},
+		{
+			"date": "2024-02-09",
+			"type": "assignments",
+			"title": "Peer Feedback on Proposal 1",
+			"anchor": "proposal1feedback"
+		},
+		{
+			"date": "2024-02-12",
+			"type": "class",
+			"title": "Overview of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-02-14",
+			"type": "class",
+			"title": "Discussion of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-02-19",
+			"type": "holiday",	
+			"title": "No Class, President's Day"
+		},
+		{
+			"date": "2024-02-21",
+			"type": "class",	
+			"title": "TBD, Possibly CHI practice talks"
+		},
+		{
+			"date": "2024-02-26",
+			"type": "class",
+			"title": "Overview of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-02-28",
+			"type": "class",
+			"title": "Discussion of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-03-01",
+			"type": "assignments",
+			"title": "Proposal 1 Final Submission",
+			"anchor": "proposal1final"
+		},
+		{
+			"date": "2024-03-04",
+			"type": "class",
+			"title": "Overview of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-03-06",
+			"type": "class",
+			"title": "Discussion of TBD",
+			"leaders": ["TBD"]
+		},
+		{
+			"date": "2024-03-11",
+			"type": "class",
+			"title": "Subcommittee Grab Bag"
+		},
+		{
+			"date": "2024-03-13",
+			"type": "class",
+			"title": "HCI Research & Publication Process"
+		},
+		{
+			"date": "2024-03-15",
+			"type": "assignments",
+			"title": "Proposal 2 Draft",
+			"anchor": "proposal2draft"
+		},
+		{
+			"date": "2024-03-15",
+			"type": "assignments",
+			"title": "Peer Feedback on Proposal 2",
+			"anchor": "proposal2feedback"
+		},
+		{
+			"date": "2024-03-18",
+			"type": "assignments",
+			"title": "Proposal 2 Final Submission",
+			"anchor": "proposal2final"
+		}
+	]
+}
