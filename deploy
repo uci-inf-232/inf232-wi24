@@ -1,2 +1,2 @@
 ng build --configuration production
-ngh --dir dist/inf232-sp23 --cname=inf232-sp23.depstein.net
+ngh --dir dist/inf232-wi24 --cname=inf232-wi24.depstein.net
