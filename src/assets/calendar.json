@@ -106,7 +106,8 @@
 					"link": "https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/your-paper-toolbox-art-backwards-outline",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/01_17_24-anatomy.pdf"
 		},
 		{
 			"date": "2024-01-22",
@@ -162,7 +163,26 @@
 			"title": "Discussion of Health",
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Anaya Bhattacharjee", "Joseph Jay Williams", "Jonah Meyerhoff", "Harsh Kumar", "Alex Mariakakis", "Rachel Kornfield"],
+					"title": "Investigating the Role of Context in the Delivery of Text Messages for Supporting Psychological Wellbeing",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3580774"
+				},
+				{
+					"authors": ["Hyeyoung Ryu", "Andrew B.L. Berry", "Catherine Y. Lim", "Andrea Hartzler", "Tad Hirsch", "Juaa I. Trejo", "Zoe Abagail Bermet", "Brandi Crawford-Gallagher", "Vi Tran", "Dawn Ferguson", "David J. Cronkite", "Brooks Tiffany", "John Weeks", "James Ralston"],
+					"title": "\"You Can See the Connections\": Facilitating Visualization of Care Priorities in People Living with Multiple Chronic Health Conditions",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3580908"
+				},
+				{
+					"authors": ["Eleanor R. Burgess", "Ivana Jankovic", "Melissa Austin", "Nanci Cai", "Adela Kapuscinska", "Suzanne Currie", "J. Marc Overhage", "Erika S. Poole", "Jofish Kaye"],
+					"title": "\"Healthcare AI Treatment Decision Support: Design Principles to Enhance Clinician Adoption and Trust",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3581251",
+					"optional": true
 				}
 			]
 		},
