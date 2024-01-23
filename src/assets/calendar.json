@@ -154,7 +154,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3290605.3300475",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/01_22_24-overview_health.pdf"
 		},
 		{
 			"date": "2024-01-24",
