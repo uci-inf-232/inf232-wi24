@@ -185,7 +185,8 @@
 					"link": "https://dl.acm.org/doi/10.1145/3544548.3581251",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/01_22_24-overview_health.pdf"
 		},
 		{
 			"date": "2024-01-29",
@@ -243,7 +244,18 @@
 			"leaders": ["Ismat Jarin", "Kenneth Pat", "Kyuha Jung"],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Kaiming Cheng", "Arkaprabha Bhattacharya", "Michelle Lin", "Jaewook Lee", "Aroosh Kumar", "Jeffery F. Tian", "Tadayoshi Kohno", "Franziska Roesner"],
+					"title": "When the User Is Inside the User Interface: An Empirical Study of UI Security Properties in Augmented Reality",
+					"venue": "USENIX Security",
+					"date": "2024",
+					"link": "https://www.usenix.org/conference/usenixsecurity24/presentation/cheng-kaiming"
+				},
+				{
+					"authors": ["Ehsan Ul Hoque", "Mohammad Maifi Hasan Khan", "Md Abdullah Al Fahim"],
+					"title": "The Nuanced Nature of Trust and Privacy Control Adoption in the Context of Google",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3581387"
 				}
 			]
 		},
@@ -251,7 +263,7 @@
 			"date": "2024-02-05",
 			"type": "class",
 			"title": "Overview of Critical Computing, Sustainability, and Social Justice",
-			"leaders": ["Abagail Ma", "Di Hu"],
+			"leaders": ["Abigail Ma", "Di Hu"],
 			"venues": [
 				{
 					"name": "CHI Subcommittee",
