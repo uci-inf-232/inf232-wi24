@@ -339,7 +339,18 @@
 			"leaders": ["Abagail Ma", "Di Hu"],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Marianela Ciolf Felice", "Marie Louise Juul Søndergaard", "Madeline Balaam"],
+					"title": "Resisting the Medicalisation of Menopause: Reclaiming the Body through Design",
+					"venue": "CHI",
+					"date": "2021",
+					"link": "https://dl.acm.org/doi/10.1145/3411764.3445153"
+				},
+				{
+					"authors": ["Heidi Biggs", "Shellye Suttles", "Shaowen Bardzell"],
+					"title": "Redlining Maps and Terrains of Sustainability:: Interdisciplinary Mapping of Racialized Redlining to Present-Day Sustainability Agendas in HCI",
+					"venue": "CHI",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3544548.3581491"
 				}
 			]
 		},
@@ -514,7 +525,7 @@
 			"date": "2024-02-28",
 			"type": "class",
 			"title": "Discussion of Accessibility and Aging",
-			"leaders": ["Isabela Figueira", "Zhouyi Yang", "Alyson Yin"],
+			"leaders": ["Isabela Figueira", "Zoey Yang", "Alyson Yin"],
 			"readings": [
 				{
 					"tbd": "tbd"
