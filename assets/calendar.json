@@ -235,7 +235,8 @@
 					"date": "2017",
 					"link": "https://dl.acm.org/doi/10.1145/3025453.3025875"
 				}
-			]
+			],
+			"slides": "assets/slides/01_29_24-overview_privacy.pdf"
 		},
 		{
 			"date": "2024-01-31",
@@ -257,7 +258,8 @@
 					"date": "2023",
 					"link": "https://dl.acm.org/doi/10.1145/3544548.3581387"
 				}
-			]
+			],
+			"slides": "assets/slides/01_31_24-discussion_privacy.pdf"
 		},
 		{
 			"date": "2024-02-05",
