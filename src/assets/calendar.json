@@ -485,7 +485,11 @@
 		{
 			"date": "2024-02-21",
 			"type": "class",
-			"title": "TBD, Possibly CHI practice talks"
+			"title": "Discussion: My First CHI Paper",
+			"leaders": ["Cameron Cassidy", "Ariel Han", "Whitney Kouaho", "Bruna Oewel"],
+			"readings": [{
+				"tbd": "tbd"
+			}]
 		},
 		{
 			"date": "2024-02-26",
