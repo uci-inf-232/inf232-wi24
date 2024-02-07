@@ -332,7 +332,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3274357",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/02_05_24-critical_sustainability.pdf"
 		},
 		{
 			"date": "2024-02-07",
@@ -370,7 +371,8 @@
 					"link": "https://dl.acm.org/doi/10.1145/3544548.3581122",
 					"optional":true
 				}
-			]
+			],
+			"slides": "assets/slides/02_05_24-critical_sustainability.pdf"
 		},
 		{
 			"date": "2024-02-09",
@@ -378,12 +380,6 @@
 			"title": "Proposal 1 Draft",
 			"anchor": "proposal1draft",
 			"link": "https://canvas.eee.uci.edu/courses/59767/assignments/1285343"
-		},
-		{
-			"date": "2024-02-12",
-			"type": "assignments",
-			"title": "Peer Feedback on Proposal 1",
-			"anchor": "proposal1feedback"
 		},
 		{
 			"date": "2024-02-12",
@@ -442,6 +438,12 @@
 					"optional": true
 				}
 			]
+		},
+		{
+			"date": "2024-02-14",
+			"type": "assignments",
+			"title": "Peer Feedback on Proposal 1",
+			"anchor": "proposal1feedback"
 		},
 		{
 			"date": "2024-02-14",
