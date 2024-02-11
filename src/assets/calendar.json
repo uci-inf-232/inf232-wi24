@@ -469,13 +469,6 @@
 		},
 		{
 			"date": "2024-02-19",
-			"type": "assignments",
-			"title": "Proposal 1 Final Submission",
-			"anchor": "proposal1final",
-			"link": "https://canvas.eee.uci.edu/courses/59767/assignments/1285344"
-		},
-		{
-			"date": "2024-02-19",
 			"type": "holiday",	
 			"title": "No Class, President's Day"
 		},
@@ -486,12 +479,36 @@
 		},
 		{
 			"date": "2024-02-21",
+			"type": "assignments",
+			"title": "Proposal 1 Final Submission",
+			"anchor": "proposal1final",
+			"link": "https://canvas.eee.uci.edu/courses/59767/assignments/1285344"
+		},
+		{
+			"date": "2024-02-21",
 			"type": "class",
 			"title": "Discussion: My First CHI Paper",
+			"note": "Pick at least two papers to read",
 			"leaders": ["Cameron Cassidy", "Ariel Han", "Whitney Kouaho", "Bruna Oewel"],
 			"readings": [{
-				"tbd": "tbd"
-			}]
+					"authors":["Cameron Tyler Cassidy", "Isabela Figueira", "Sohyeon Park", "Jin Seo Kim", "Emory James Edwards", "Stacy Marie Branham"],
+					"title": "Cuddling Up With a Print-Braille Book: How Intimacy and Access Shape Parents' Reading Practices with Children",
+					"venue": "CHI",
+					"date": "2024"
+				},
+				{
+					"authors":["Richard Martinez", "Kurt Squire"],
+					"title": "Engaging Recently Incarcerated and Gang Affiliated Black and Latino/a Youth in Designing Social Collocated Applications for Mixed Reality Smart Glasses through Community-Based Participatory Design Workshops",
+					"venue": "CHI",
+					"date": "2024"
+				},
+				{
+					"authors":["Ariel Han", "Xiaofei Zhou", "Zhenyao Cai", "Shenshen Han", "Richard Ko", "Seth Corrigan", "Kylie Peppler"],
+					"title": "Teachers, Parents, and Students’ Perspectives on Integrating Generative AI into Elementary Literacy Education",
+					"venue": "CHI",
+					"date": "2024"
+				}
+			]
 		},
 		{
 			"date": "2024-02-26",
