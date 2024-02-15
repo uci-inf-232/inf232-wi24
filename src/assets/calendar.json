@@ -488,25 +488,35 @@
 			"date": "2024-02-21",
 			"type": "class",
 			"title": "Discussion: My First CHI Paper",
-			"note": "Pick at least two papers to read",
+			"notes": "Pick at least two papers to read.",
 			"leaders": ["Cameron Cassidy", "Ariel Han", "Whitney Kouaho", "Bruna Oewel"],
 			"readings": [{
 					"authors":["Cameron Tyler Cassidy", "Isabela Figueira", "Sohyeon Park", "Jin Seo Kim", "Emory James Edwards", "Stacy Marie Branham"],
 					"title": "Cuddling Up With a Print-Braille Book: How Intimacy and Access Shape Parents' Reading Practices with Children",
-					"venue": "CHI",
-					"date": "2024"
+					"venue": "CHI, to appear",
+					"date": "2024",
+					"link": "https://app.perusall.com/courses/in4matx-232-winter-2024/_/dashboard/"
 				},
 				{
 					"authors":["Richard Martinez", "Kurt Squire"],
 					"title": "Engaging Recently Incarcerated and Gang Affiliated Black and Latino/a Youth in Designing Social Collocated Applications for Mixed Reality Smart Glasses through Community-Based Participatory Design Workshops",
-					"venue": "CHI",
-					"date": "2024"
+					"venue": "CHI, to appear",
+					"date": "2024",
+					"link": "https://app.perusall.com/courses/in4matx-232-winter-2024/_/dashboard/"
 				},
 				{
 					"authors":["Ariel Han", "Xiaofei Zhou", "Zhenyao Cai", "Shenshen Han", "Richard Ko", "Seth Corrigan", "Kylie Peppler"],
 					"title": "Teachers, Parents, and Students’ Perspectives on Integrating Generative AI into Elementary Literacy Education",
-					"venue": "CHI",
-					"date": "2024"
+					"venue": "CHI, to appear",
+					"date": "2024",
+					"link": "https://app.perusall.com/courses/in4matx-232-winter-2024/_/dashboard/"
+				},
+				{
+					"authors":["Whitney-Jocelyn Kouaho", "Daniel A. Epstein"],
+					"title": "Socioeconomic Class in Physical Activity Wearables Research and Design",
+					"venue": "CHI, to appear",
+					"date": "2024",
+					"link": "https://app.perusall.com/courses/in4matx-232-winter-2024/_/dashboard/"
 				}
 			]
 		},
