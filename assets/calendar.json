@@ -599,7 +599,26 @@
 			"leaders": ["Isabela Figueira", "Zoey Yang", "Alyson Yin"],
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Qisheng Li", "Josephine Lee", "Christina Zhang", "Katharina Reinecke"],
+					"title": "How Online Tests Contribute to the Support System for People With Cognitive and Mental Disabilities",
+					"date": "2021",
+					"venue": "ASSETS",
+					"link": "https://dl.acm.org/doi/10.1145/3441852.3471229"
+				},
+				{
+					"authors": ["Christina N. Harrington", "Radhika Garg", "Amanda Woodward", "Dimitri Williams"],
+					"title": "\"It’s Kind of Like Code-Switching\": Black Older Adults’ Experiences with a Voice Assistant for Health Information Seeking",
+					"date": "2022",
+					"venue": "CHI",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3491102.3501995"
+				},
+				{
+					"authors": ["Adil Rahman", "Md Aashikur Rahman Azim", "Seongkook Heo"],
+					"title": "Take My Hand: Automated Hand-Based Spatial Guidance for the Visually Impaired",
+					"date": "2023",
+					"venue": "CHI",
+					"link": "https://dl.acm.org/doi/10.1145/3544548.3581415",
+					"optional": true
 				}
 			]
 		},
