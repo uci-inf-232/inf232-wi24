@@ -27,7 +27,7 @@
 							<li><a [href]="venue.link">{{venue.name}}</a> <span *ngIf="venue.notes"> ({{venue.notes}})</span></li>
 						</ng-container>
 					</ul>
-					<p *ngIf="event.type == 'class' && (!event.readings || !containsRequiredReadings(event.readings))">
+					<p *ngIf="event.type == 'class' && (!event.readings || !containsRequiredReadings(event.readings)) && !event.venues">
 						No readings assigned.
 					</p>
 					<p *ngIf="event.readings && containsRequiredReadings(event.readings)">
