@@ -680,9 +680,35 @@
 			"type": "class",
 			"title": "Discussion of Learning, Education, and Families",
 			"leaders": ["Sarah Nassery", "Jamie Lee", "Seungmin Jeong"],
+			"notes": "Please read two of the three.",
 			"readings": [
 				{
-					"tbd": "tbd"
+					"authors": ["Reza Hadi Mogavi", "Bingcan Guo", "Yuanhao Zhang", "Ehsan-Ul Haq", "Pan Hui", "Xiaojuan Ma"],
+					"title": "When Gamification Spoils Your Learning: A Qualitative Case Study of Gamification Misuse in a Language-Learning App",
+					"venue": "L@S",
+					"date": "2022",
+					"link": "https://dl.acm.org/doi/10.1145/3491140.3528274"
+				},
+				{
+					"authors": ["Ying Xu", "Kunlei He", "Valery Vigil", "Santiago Ojeda-Ramirez", "Xuechen Liu", "Julian Levine", "Kelsayann Cervera", "Mark Warschauer"],
+					"title": "\"Rosita Reads With My Family\": Developing A Bilingual Conversational Agent to Support Parent-Child Shared Reading",
+					"venue": "L@S",
+					"date": "2022",
+					"link": "https://dl.acm.org/doi/10.1145/3491140.3528274"
+				},
+				{
+					"authors": ["Reza Hadi Mogavi", "Bingcan Guo", "Yuanhao Zhang", "Ehsan-Ul Haq", "Pan Hui", "Xiaojuan Ma"],
+					"title": "When Gamification Spoils Your Learning: A Qualitative Case Study of Gamification Misuse in a Language-Learning App",
+					"venue": "IDC",
+					"date": "2023",
+					"link": "https://dl.acm.org/doi/10.1145/3585088.3589354"
+				},
+				{
+					"authors": ["René F. Kizilcec", "Kathryn Papadopoulos", "Lalida Sritanyaratana"],
+					"title": "Showing face in video instruction: effects on information retention, visual attention, and affect",
+					"venue": "CHI",
+					"date": "2014",
+					"link": "https://dl.acm.org/doi/10.1145/2556288.2557207"
 				}
 			]
 		},
