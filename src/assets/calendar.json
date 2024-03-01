@@ -590,7 +590,8 @@
 					"link": "https://dl.acm.org/doi/abs/10.1145/3234695.3236348",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/02_26_24-overview_accessibility.pdf"
 		},
 		{
 			"date": "2024-02-28",
@@ -620,7 +621,8 @@
 					"link": "https://dl.acm.org/doi/10.1145/3544548.3581415",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/02_26_24-overview_accessibility.pdf"
 		},
 		{
 			"date": "2024-03-04",
