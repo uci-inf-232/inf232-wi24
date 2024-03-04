@@ -716,12 +716,6 @@
 		},
 		{
 			"date": "2024-03-11",
-			"type": "assignments",
-			"title": "Peer Feedback on Proposal 2",
-			"anchor": "proposal2feedback"
-		},
-		{
-			"date": "2024-03-11",
 			"type": "class",
 			"title": "Subcommittee Grab Bag",
 			"venues": [
@@ -742,6 +736,12 @@
 					"link": "https://chiplay.acm.org/2024/full-papers/"
 				}
 			]
+		},
+		{
+			"date": "2024-03-13",
+			"type": "assignments",
+			"title": "Peer Feedback on Proposal 2",
+			"anchor": "proposal2feedback"
 		},
 		{
 			"date": "2024-03-13",
