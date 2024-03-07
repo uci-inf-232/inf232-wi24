@@ -675,7 +675,8 @@
 					"link": "https://dl.acm.org/doi/10.1145/174809.174813",
 					"optional": true
 				}
-			]
+			],
+			"slides": "assets/slides/03_04_24-overview_learning.pdf"
 		},
 		{
 			"date": "2024-03-06",
@@ -705,7 +706,8 @@
 					"date": "2014",
 					"link": "https://dl.acm.org/doi/10.1145/2556288.2557207"
 				}
-			]
+			],
+			"slides": "assets/slides/03_06_24-discussion_learning.pdf"
 		},
 		{
 			"date": "2024-03-08",
